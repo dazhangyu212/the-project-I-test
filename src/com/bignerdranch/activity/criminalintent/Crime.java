@@ -19,7 +19,7 @@ public class Crime {
 	public void setDate(Date date) {
 		mDate = date;
 	}
-	public boolean isSolved() {
+	public boolean isSolved() { 
 		return mSolved;
 	}
 	public void setSolved(boolean solved) {
